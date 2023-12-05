@@ -47,29 +47,21 @@
             "id": "8c038ffb15afe7dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Laravel.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231120080620.png"
               }
             }
           },
           {
-            "id": "b0a397a2b3c5012c",
+            "id": "b0902314532d1097",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d56eb4b3d85fd3a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231120200950.png"
+                "file": "PHP8.2内置属性.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -124,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 403.5
   },
   "right": {
     "id": "1f754b07fffffbc1",
@@ -140,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis.md",
+                "file": "PHP8.2内置属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis.md",
+                "file": "PHP8.2内置属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis.md"
+                "file": "PHP8.2内置属性.md"
               }
             }
           }
@@ -201,19 +193,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b0a397a2b3c5012c",
+  "active": "b0902314532d1097",
   "lastOpenFiles": [
+    "PHP8.2重置内存峰值使用的函数.md",
+    "PHP静态分析.md",
+    "images/Pasted image 20231119132440.png",
+    "images/Pasted image 20231119122637.png",
+    "Mysql.md",
+    "images/Pasted image 20231119111439.png",
+    "images/Pasted image 20231119022119.png",
+    "images/Pasted image 20231118124008.png",
+    "images/Pasted image 20231118071618.png",
+    "images/Pasted image 20231204173939.png",
+    "images/Pasted image 20231118065311.png",
+    "images/Pasted image 20231118064055.png",
+    "images/Pasted image 20231119135002.png",
+    "PHP8.1枚举.md",
+    "2023-12-04.md",
+    "未命名.md",
+    "未命名.canvas",
+    "PHP8.2 traits可以加常量.md",
+    "PHP类型差异.md",
+    "PHP魔术方法.md",
+    "PHP 异步.md",
+    "PHP.md",
+    "images",
+    "Laravel.md",
     "REST表现层转移.md",
     "Git.md",
-    "Pasted image 20231204173939.png",
-    "Pasted image 20231204173927.png",
-    "Pasted image 20231204173911.png",
-    "Pasted image 20231204173807.png",
-    "Pasted image 20231204173754.png",
-    "Pasted image 20231204173731.png",
     "HTTP.md",
-    "PHP魔术方法.md",
-    "2023-12-04.md",
     "未命名 3.canvas",
     "PHP类型系统.md",
     "PHP8.0构造函数属性提升.md",
@@ -222,27 +230,11 @@
     "PHP7.4 FFI.md",
     "PHP7.4 短闭包.md",
     "PHP RFC 内部机制.md",
-    "PHP 异步.md",
     "PHP 事件驱动.md",
-    "PHP.md",
-    "PHP类型差异.md",
     "PHP8.0命名参数.md",
     "PHP8.1只读属性.md",
     "PHP8.2 随机扩展.md",
-    "PHP8.2 traits可以加常量.md",
-    "PHP8.2内置属性.md",
-    "PHP8.2弃用.md",
-    "PHP8.2正则无捕获修饰符.md",
-    "PHP8.2只读类.md",
-    "PHP8.2重置内存峰值使用的函数.md",
-    "PHP8.2mysqli的execute_query.md",
     "未命名 2.canvas",
-    "Pasted image 20231122090305.png",
-    "Pasted image 20231122084714.png",
-    "Pasted image 20231122084659.png",
-    "Pasted image 20231122084639.png",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "未命名"
+    "未命名 1.canvas"
   ]
 }
