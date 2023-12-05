@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP8.2内置属性.md",
+                "file": "PHP数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP8.2内置属性.md",
+                "file": "PHP数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP8.2内置属性.md",
+                "file": "PHP数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP8.2内置属性.md"
+                "file": "PHP数组.md"
               }
             }
           }
@@ -195,6 +195,11 @@
   },
   "active": "b0902314532d1097",
   "lastOpenFiles": [
+    "Redis.md",
+    "REST表现层转移.md",
+    "PHP数组.md",
+    "现货拼车业务.md",
+    "PHP8.2内置属性.md",
     "PHP8.2重置内存峰值使用的函数.md",
     "PHP静态分析.md",
     "images/Pasted image 20231119132440.png",
@@ -219,7 +224,6 @@
     "PHP.md",
     "images",
     "Laravel.md",
-    "REST表现层转移.md",
     "Git.md",
     "HTTP.md",
     "未命名 3.canvas",
@@ -230,10 +234,6 @@
     "PHP7.4 FFI.md",
     "PHP7.4 短闭包.md",
     "PHP RFC 内部机制.md",
-    "PHP 事件驱动.md",
-    "PHP8.0命名参数.md",
-    "PHP8.1只读属性.md",
-    "PHP8.2 随机扩展.md",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
